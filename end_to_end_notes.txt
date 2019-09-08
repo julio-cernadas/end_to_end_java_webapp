@@ -18,3 +18,6 @@
     * the point is to keep them seperate, they will communicate through network calls.
     * the goal is to be able to change and deploy our application w/out impacting other services!
 
+- Make note that eclipse is very useful, even though its not as efficient as vscode
+    * you can add extensions and even build projects quicker, consider using both
+
